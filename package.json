@@ -1,0 +1,27 @@
+{
+  "name": "dndice",
+  "version": "1.0.0",
+  "description": "Discord Dice bot for Dungeons and Dragons",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev-Osmium/D-Dice.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "Dev-Osmium",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dev-Osmium/D-Dice/issues"
+  },
+  "homepage": "https://github.com/Dev-Osmium/D-Dice#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "discord.js-commando": "^0.10.0",
+    "random-number": "0.0.9"
+  }
+}
