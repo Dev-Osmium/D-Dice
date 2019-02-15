@@ -1,4 +1,4 @@
-const { Command } = require("discord.js-commando");
+/*const { Command } = require("discord.js-commando");
 const rn = require("random-number");
 
 module.exports = class StatRollCommand extends Command {
@@ -22,4 +22,4 @@ module.exports = class StatRollCommand extends Command {
             var 
         }
     }
-}
+}*/
