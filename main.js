@@ -10,7 +10,6 @@ const client = new Commando.CommandoClient({
 client.registry
 .registerGroups([
     ['dice', 'Standard Polyhedral Dice'],
-    ['stats', 'Stat rolls']
 ])
 .registerDefaults()
 .registerCommandsIn(path.join(__dirname, 'commands'));
